@@ -1,2 +1,2 @@
 # faith_tusiime
-Computer Vision 
+Computer Vision and Machine learning 
